@@ -1,5 +1,10 @@
 # Ex.No: 08     MOVINTG AVERAGE MODEL AND EXPONENTIAL SMOOTHING
 
+```
+Devloped by: Keerthana P
+Register Number: 212223240069
+Date: 23-05-2025
+```
 
 ### AIM:
 To implement Moving Average Model and Exponential smoothing Using Python.
